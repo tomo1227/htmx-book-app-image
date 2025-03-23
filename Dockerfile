@@ -30,3 +30,4 @@ USER $USERNAME
 SHELL ["/bin/bash", "-c"]
 CMD ["/bin/bash"]
 WORKDIR /workspace
+RUN uv sync --dev
