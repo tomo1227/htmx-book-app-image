@@ -3,5 +3,5 @@
 ## docker
 
 ```shell
-docker pull tomomon1227/htmx-book-app:0.1.0
+docker pull tomomon1227/htmx-book-app:0.2.0
 ```
